@@ -1,1 +1,1 @@
-Primero ejecuta el programa, después dentro de la carpeta C:..\Desktop_Qt_#_#_#_MinGW_64_bit-Debug copia el archivo 'mapa.txt' y la imagen 'pacman.txt'.
+Primero ejecuta el programa, después dentro de la carpeta C:..\Desktop_Qt_#_#_#_MinGW_64_bit-Debug copia el archivo 'mapa.txt' y la imagen 'pacman.png'.
